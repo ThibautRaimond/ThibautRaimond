@@ -8,12 +8,14 @@
 
 ### 🛠️ Core Skills
 
+- Audits (WCAG, RGAA, RAAM)
+- Train teams on accessibility
 - Semantic HTML / ARIA
+- W3C patterns / Accessible code
 - CSS / SCSS / Tailwind
 - JavaScript / TypeScript
 - React / Vue
-- Accessibility audits (WCAG, RGAA)
-- Agile methodologies & teamwork
+- Agile methodologies & Teamwork
 
 ---
 
@@ -33,7 +35,7 @@
 
 raimond.thibaut@gmail.com  
 👉 [Portfolio website](https://thibautraimond.github.io/portfolio/)
-
+👉 [Linkedin profil](https://www.linkedin.com/in/thibaut-raimond-0a46791ab/)
 ---
 
 ### Thanks for visiting! 😊
