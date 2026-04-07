@@ -3,7 +3,7 @@
 🎯 Digital Accessibility Consultant | Front-end Developer  
 📍 Lille, France
 
-I am passionate about building **inclusive, accessible, and user-friendly digital experiences**. I help teams design and deliver products that meet real user needs — including people with disabilities.
+I am passionate about building **inclusive, accessible, and user-friendly digital experiences**. I help teams design and deliver products that meet real user needs including people with disabilities.
 
 ---
 
@@ -63,7 +63,7 @@ I am passionate about building **inclusive, accessible, and user-friendly digita
 
 ## 🧠 Professional Experience
 
-**Digital Accessibility Consultant — Urbilog**  
+**Digital Accessibility Consultant | Urbilog**  
 *Dec 2024 – Present*  
 
 - I conduct RGAA & RAAM audits on web and applications  
